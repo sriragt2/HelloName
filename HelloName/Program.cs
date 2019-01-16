@@ -7,7 +7,7 @@ namespace HelloName
         static void Main(string[] args)
         {
             string name ="srirag";
-            Console.WriteLine("My name is",name);
+            Console.WriteLine("My name is "+name);
             Console.ReadKey(true);
         }
     }
